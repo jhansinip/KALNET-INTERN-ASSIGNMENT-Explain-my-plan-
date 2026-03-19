@@ -2,9 +2,6 @@
 
 Welcome! **Explain My Plan** is a full-stack web application designed to help individuals transform their vague, unstructured ideas into clear, actionable, and professionally structured roadmaps.
 
-🚀 **[Live Demo](https://kalnet-intern-assignment-explain-my-nine.vercel.app/)**
-
----
 
 ## 🌟 Project Overview
 Unorganized human input can often be a barrier to execution. This tool uses state-of-the-art AI to:
