@@ -16,7 +16,7 @@ Individuals often have ideas or plans that are vague and unstructured. This app 
 - **Groq API** (Llama-3.3-70b-versatile model)
 
 ## Setup Instructions
-1. Clone the repository: `git clone ...`
+1. Clone the repository: ` git clone https://github.com/jhansinip/KALNET-INTERN-ASSIGNMENT-Explain-my-plan-.git`
 2. Install dependencies: `npm install`
 3. Create a `.env.local` file in the root directory.
 4. Add your Groq API key (get one for free at console.groq.com/keys):
