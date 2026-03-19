@@ -1,6 +1,8 @@
 # 🚀 Explain My Plan — AI Clarity & Structuring Tool
 
-Welcome! **Explain My Plan** is a full-stack web application designed to help individuals transform their vague, unstructured ideas into clear, actionable, and professionally structured roadmap.
+Welcome! **Explain My Plan** is a full-stack web application designed to help individuals transform their vague, unstructured ideas into clear, actionable, and professionally structured roadmaps.
+
+🚀 **[Live Demo](https://kalnet-intern-assignment-explain-my-nine.vercel.app/)**
 
 ---
 
